@@ -8,16 +8,11 @@ https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali
 
 ## Project
 
-AI chatbit search engine for ICP ecosytem dApps 
+## Examples
 
-* Using ICP blockchain
-
-## Ressources
-
-https://github.com/fxgst/azle-react
-
-### [depraciated] Similar projects :
-
-https://github.com/supabase-community/vercel-ai-chatbot
-
-https://github.com/cairo-book/cairo-chatbot
+SAMPLES : https://internetcomputer.org/samples
+NFT MINTING IN RUST : https://github.com/dfinity/examples/tree/master/rust/dip721-nft-container
+DEX IN RUST : https://github.com/dfinity/examples/tree/master/rust/defi
+HTTP CALLS IN RUST : https://github.com/dfinity/examples/tree/master/rust/send_http_get
+SOLIDITY AND BITFINITY : https://www.blog.bitfinity.network/bitfinity-icp-because-even-the-internet-needs-a-hero/
+CANISTER : https://internetcomputer.org/docs/current/concepts/canisters-code

@@ -2,7 +2,6 @@
 
 Team HER DAO ICP hackathon
 
-
 ## Hackathon rules
 
 https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali
@@ -11,7 +10,13 @@ https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali
 
 AI chatbit search engine for ICP ecosytem dApps 
 
-## Similar projects :
+* Using ICP blockchain
+
+## Ressources
+
+https://github.com/fxgst/azle-react
+
+### [depraciated] Similar projects :
 
 https://github.com/supabase-community/vercel-ai-chatbot
 

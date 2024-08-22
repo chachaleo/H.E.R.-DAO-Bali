@@ -14,4 +14,5 @@ AI chatbit search engine for ICP ecosytem dApps
 ## Similar projects :
 
 https://github.com/supabase-community/vercel-ai-chatbot
+
 https://github.com/cairo-book/cairo-chatbot

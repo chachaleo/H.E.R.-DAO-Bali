@@ -1,3 +1,17 @@
-# H.E.R.-DAO-Bali
+# H.E.R.-DAO-Bali - ICP Hackathon
 
-Training repo for H.E.R. DAO Bali Tech City Workshops 🚀
+Team HER DAO ICP hackathon
+
+
+## Hackathon rules
+
+https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali
+
+## Project
+
+AI chatbit search engine for ICP ecosytem dApps 
+
+## Similar projects :
+
+https://github.com/supabase-community/vercel-ai-chatbot
+https://github.com/cairo-book/cairo-chatbot
